@@ -132,7 +132,7 @@ section {
     flex-wrap: wrap;
     padding: 7px 15px;
     margin: 10px;
-    background-image: url("../images/Run-buddy.JPG");
+    /* background-image: url("../images/Run-buddy.JPG"); */
     height: 500px;
     width: 2000px;
     background-position: center;
@@ -148,7 +148,7 @@ section {
     text-decoration: none;
 }
 
-.project1 a:hover {
+.project1 img:hover {
     background-color: white;
     color: green;
     text-decoration: none;
